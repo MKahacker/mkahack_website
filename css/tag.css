@@ -1,0 +1,85 @@
+body{
+  background-color: #FFFFCC;  
+}
+
+/*-------------------------------------------- Nav Bar -----------------------------------------------------------*/
+nav{
+  text-align:center;
+  background-color: #000;
+  height: 56px;
+  border-radius: 4px;
+  font-family: 'Nova Cut', cursive;
+  font-weight: 700;
+}
+
+nav ul{
+  list-style-type:none;
+  display:inline-block;
+}
+
+nav ul li{
+  float:left;
+  margin: 0;
+}
+
+nav ul li a{
+  background-color: #BD2031;
+  text-decoration:none;
+  padding: 10px 25px;
+  display: block;
+  color: #fff;
+  font-size: 25px;
+}
+
+nav ul li a:hover{
+  background-color: #000;
+}
+
+nav ul li a.active{
+  background-color: #000; 
+  color: #f0b401;
+}
+
+
+/*------------------------------------------ Tags Used for content ---------------------------------------------*/
+p{
+  font-size: 21px; 
+}
+h1{
+  margin: 15px 0;
+  font-size: 40px;
+  font-weight: 500; /*Bold = 700*/
+  clear: both;
+  font-family: 'Russo One', sans-serif;
+  text-align: center;
+}
+
+h2{
+  margin: 20px 0;
+  font-weight: 600; 
+  font-size: 35px;
+}
+
+h3{
+  font-size: 30px;
+  margin: 0;
+}
+
+li{
+  margin: 0 0 0 45px; 
+}
+
+iframe{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+footer{
+  position: relative;
+  top: 5px;
+  clear: both;
+}
+

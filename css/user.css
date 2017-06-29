@@ -1,0 +1,142 @@
+.nav_wrapper{
+  background-color: #BD2031;
+  height: 50px;
+}
+
+.body_wrapper{
+  width: 75%;
+  margin: 0% 12.5%;
+}
+
+.image_wrapper{
+  border: 4px solid #BD2031;
+  float: left;
+  margin: 0 10px 0 0;
+  background-color: #fff;
+  padding: 2px;
+  border-radius: 20px;
+}
+
+.video_wrapper{
+  position: relative;
+  padding-bottom: 56.25%; /*For an 16:9 aspect ration*/
+  padding-top: 20px;
+  height: 0;
+}
+
+/*-------------------------------------Paragraph and Heading styles-------------------------------*/
+
+.resume_content{
+  margin: 0 0 0 20px; 
+}
+
+.paragraph_image{
+  float: left;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.paragraph_1{ 
+  margin: 15px 0;
+  font-family: 'Pangolin', cursive;
+}
+
+.paragraph_2{
+  text-align: left;
+  font-family: 'Courgette', cursive;
+}
+
+.resumep_wrapper{
+  font-family: 'Rhodium Libre', serif; 
+}
+
+.author_poetry{
+  font-weight: 700; 
+}
+
+h3.headings_resume{
+  margin: 30px 0 0 0;
+}
+
+.minions{
+  text-align: left;
+  margin: 0 0 0 20px;
+  font-size: 18px;
+}
+
+.company_pos{
+  font-size: 20px;
+  text-align: left;  
+}
+
+.company_name{
+  text-align: left;
+  font-weight: 900;
+  margin: 0 0 25px 0;  
+}
+
+.project_name{
+  text-align: left; 
+}
+
+.show_title{
+  margin: 20px 0;
+  font-family: 'Pangolin', cursive;
+  font-weight: 700; 
+  font-size: 30px;  
+}
+
+.minions_iframe{
+  text-align: left;
+  font-size: 17px;
+  font-family: 'Rhodium Libre', serif;
+  margin-top: 15px;
+}
+
+.content_tv{
+  margin-top: 20px; 
+  font-family: 'Rhodium Libre', serif;
+}
+
+/*-----------------------------------Secondary Nav Bar------------------------------------------*/
+
+.other_nav ul{
+  list-style-type: none;
+  float: right;
+}
+
+.other_nav ul li{
+  float: left;
+  margin: 0;
+}
+
+.other_nav ul li a{
+  text-decoration: none;
+  color: #000;
+  margin: 0 5px;
+  font-size: 17px;
+}
+
+.other_nav ul li a:hover{
+  text-decoration: underline;
+}
+
+.other_nav ul li::before{
+  content:"|"; 
+}
+
+.other_nav ul li:first-child::before{
+  content:"";
+  margin: 0;  
+}
+
+/*--------------------------------IDs----------------------------------------------------------------*/
+
+#hamburger_nav{
+  position: relative;
+  left: 40px;
+  bottom: 10px;
+  display:none;  
+}
+
+
