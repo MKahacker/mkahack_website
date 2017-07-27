@@ -10,7 +10,8 @@ function initMap(){
         ['Lahore Food & Grill', 41.998018, -87.683277,'<h1 style="font-size: 22px; margin-top:0px">Lahore Food & Grill</h1><p style="font-size: 15px">An restaurant that serves Paki food</p><p style="font-size: 13px; font-weight: 700">Recommendation: Chicken Chargha (Might Be Too Spicy)</p>'],
         ['Oberoi\'s Indian Food', 41.838076, -87.633827,'<h1 style="font-size: 22px; margin-top:0px">Oberoi\'s Indian Food</h1><p style="font-size: 15px">A very conveniently located Indian restaurant around the IIT campus</p><p style="font-size: 13px; font-weight: 700">Recommendation: Mango Lassi</p>'],
         ['Vivere',41.880585, -87.630197,'<h1 style="font-size: 22px; margin-top:0px">Vivere</h1><p style="font-size: 15px">A very fancy Italian restaurant downtown.</p><p style="font-size: 13px; font-weight: 700">Recommendation: Ravioli di Formaggi con Pomodoro</p>'],
-        ['Magnolia Cafe', 41.883962, -87.628129,'<h1 style="font-size: 22px; margin-top:0px">Magnolia Cafe</h1><p style="font-size: 15px">A popular coffee shop and bakery. Located on heart of Downtown</p><p style="font-size: 13px; font-weight: 700">Recommendation: Caramel Latte</p>']]; 
+        ['Magnolia Cafe', 41.883962, -87.628129,'<h1 style="font-size: 22px; margin-top:0px">Magnolia Cafe</h1><p style="font-size: 15px">A popular coffee shop and bakery. Located on heart of Downtown</p><p style="font-size: 13px; font-weight: 700">Recommendation: Caramel Latte</p>']
+        ['Glazed and Infused', 41.917955, -87.652399, '<h1 style="font-size: 22px; margin-top:0px">Glazed and Infused</h1><p style="font-size: 15px">On my list of restaurants I want to visit. </p>']]; 
   
   var fork ={ url:'images/fork2.png'};
   
