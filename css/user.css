@@ -48,14 +48,20 @@
 
 .resumep_wrapper{
   font-family: 'Rhodium Libre', serif; 
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  padding: 0 10px; 
+  background-color: white;
 }
 
 .author_poetry{
   font-weight: 700; 
 }
 
-h3.headings_resume{
-  margin: 30px 0 0 0;
+h1.headings_resume{
+  margin: 10px 0 0 0;
+  font-align: left;
 }
 
 .minions{
