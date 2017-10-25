@@ -104,6 +104,10 @@ h1.headings_resume{
   font-family: 'Rhodium Libre', serif;
 }
 
+body > div > div > p:nth-child(2) {
+    border-bottom: 2px solid black;
+}
+
 /*-----------------------------------Secondary Nav Bar------------------------------------------*/
 
 .other_nav ul{
