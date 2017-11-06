@@ -64,6 +64,11 @@ h1.headings_resume{
   text-align: left;
 }
 
+h2.headings_resume{
+  font-size: 35px;
+  margin: 0; 
+}
+
 .minions{
   text-align: left;
   margin: 0 0 0 20px;
