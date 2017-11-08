@@ -3,7 +3,7 @@ body{
 }
 
 /*-------------------------------------------- Nav Bar -----------------------------------------------------------*/
-header nav{
+body > nav{
   text-align:center;
   background-color: #000;
   height: 56px;
