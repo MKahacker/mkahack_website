@@ -12,17 +12,17 @@ body > nav{
   font-weight: 700;
 }
 
-nav ul{
+body > nav ul{
   list-style-type:none;
   display:inline-block;
 }
 
-nav ul li{
+body > nav ul li{
   float:left;
   margin: 0;
 }
 
-nav ul li a{
+body > nav ul li a{
   background-color: #BD2031;
   text-decoration:none;
   padding: 10px 25px;
@@ -31,11 +31,11 @@ nav ul li a{
   font-size: 25px;
 }
 
-nav ul li a:hover{
+body > nav ul li a:hover{
   background-color: #000;
 }
 
-nav ul li a.active{
+body > nav ul li a.active{
   background-color: #000; 
   color: #f0b401;
 }
