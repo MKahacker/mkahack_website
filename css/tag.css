@@ -79,8 +79,8 @@ iframe{
 
 footer{
   position: relative;
-  top: 5px;
+  bottom: 15px;
   clear: both;
-  margin: 5px 0;
+  margin: 15px 0;
 }
 
