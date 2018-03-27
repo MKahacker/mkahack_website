@@ -1,6 +1,6 @@
 Want to add a slideshow for my pictures
 
-Want to add a google map for all of my favorite restaurants and spots in chicago 
+Want to add a google map for all of my favorite restaurants and spots in chicago (x) 
 
 Add a second nav bar that appears under the first nav bar. Keep only the about me, resume, and project taps in the main menu. All the other taps should go under about me.
 
