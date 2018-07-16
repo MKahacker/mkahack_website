@@ -23,7 +23,7 @@ body > nav ul li{
 }
 
 body > nav ul li a{
-  background-color: #BD2031;
+  /*background-color: #BD2031;*/
   text-decoration:none;
   padding: 10px 25px;
   display: block;
