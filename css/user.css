@@ -1,3 +1,5 @@
+/*------------------------------Wrappers for the site ---------------------*/
+
 .nav_wrapper{
   background-color: #BD2031;
   height: 50px;
@@ -26,6 +28,11 @@
 
 /*-------------------------------------Paragraph and Heading styles-------------------------------*/
 
+.wiki-title{
+  text-align: left;
+  boder-bottom: 2px solid black;
+  margin: 30px 0px;
+}
 .resume_content{
   margin: 0 0 0 20px; 
 }
